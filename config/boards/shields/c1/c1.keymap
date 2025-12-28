@@ -7,11 +7,11 @@
         compatible = "zmk,keymap";
 
             bindings = <
-                &kp A    &kp A    &kp A    &kp A    &kp A    &kp A    &kp A    &kp A    &kp A    &kp A    &kp A    &kp A    &kp A    &kp A    &kp A    &kp A
-                &kp A    &kp A    &kp A    &kp A    &kp A    &kp A    &kp A    &kp A    &kp A    &kp A    &kp A    &kp A    &kp A    &kp A    &kp A    &kp A
-                &kp A    &kp A    &kp A    &kp A    &kp A    &kp A    &kp A    &kp A    &kp A    &kp A    &kp A    &kp A    &kp A    &kp A    &kp A
-                &kp A    &kp A    &kp A    &kp A    &kp A    &kp A    &kp A    &kp A    &kp A    &kp A    &kp A    &kp A    &kp A    &kp A    &kp A    &kp A
-                &kp A    &kp A    &kp A    &kp A    &kp A    &kp A    &kp A    &kp A    &kp A    &kp A    &kp A    &kp A
+                N1    N1    N1    N1    N1    N1    N1    N1    N1    N1    N1    N1    N1    N1    N1    N1
+                N1    N1    N1    N1    N1    N1    N1    N1    N1    N1    N1    N1    N1    N1    N1    N1
+                N1    N1    N1    N1    N1    N1    N1    N1    N1    N1    N1    N1    N1    N1    N1
+                N1    N1    N1    N1    N1    N1    N1    N1    N1    N1    N1    N1    N1    N1    N1    N1
+                N1    N1    N1    N1    N1    N1    N1    N1    N1    N1    N1    N1
             >;
     };
 };
