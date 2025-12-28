@@ -6,7 +6,6 @@
     keymap {
         compatible = "zmk,keymap";
 
-        default_layer {
             bindings = <
                 &kp A    &kp A    &kp A    &kp A    &kp A    &kp A    &kp A    &kp A    &kp A    &kp A    &kp A    &kp A    &kp A    &kp A    &kp A    &kp A
                 &kp A    &kp A    &kp A    &kp A    &kp A    &kp A    &kp A    &kp A    &kp A    &kp A    &kp A    &kp A    &kp A    &kp A    &kp A    &kp A
@@ -14,16 +13,5 @@
                 &kp A    &kp A    &kp A    &kp A    &kp A    &kp A    &kp A    &kp A    &kp A    &kp A    &kp A    &kp A    &kp A    &kp A    &kp A    &kp A
                 &kp A    &kp A    &kp A    &kp A    &kp A    &kp A    &kp A    &kp A    &kp A    &kp A    &kp A    &kp A
             >;
-        };
-
-        bt_layer {
-            bindings = <
-                &kp A    &kp A    &kp A    &kp A    &kp A    &kp A    &kp A    &kp A    &kp A    &kp A    &kp A    &kp A    &kp A    &kp A    &kp A    &kp A
-                &kp A    &kp A    &kp A    &kp A    &kp A    &kp A    &kp A    &kp A    &kp A    &kp A    &kp A    &kp A    &kp A    &kp A    &kp A    &kp A
-                &kp A    &kp A    &kp A    &kp A    &kp A    &kp A    &kp A    &kp A    &kp A    &kp A    &kp A    &kp A    &kp A    &kp A    &kp A
-                &kp A    &kp A    &kp A    &kp A    &kp A    &kp A    &kp A    &kp A    &kp A    &kp A    &kp A    &kp A    &kp A    &kp A    &kp A    &kp A
-                &kp A    &kp A    &kp A    &kp A    &kp A    &kp A    &kp A    &kp A    &kp A    &kp A    &kp A    &kp A
-            >;
-        };
     };
 };
