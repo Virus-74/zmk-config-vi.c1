@@ -6,12 +6,14 @@
     keymap {
         compatible = "zmk,keymap";
 
+        default_layer{
             bindings = <
-                N1    N1    N1    N1    N1    N1    N1    N1    N1    N1    N1    N1    N1    N1    N1    N1
-                N1    N1    N1    N1    N1    N1    N1    N1    N1    N1    N1    N1    N1    N1    N1    N1
-                N1    N1    N1    N1    N1    N1    N1    N1    N1    N1    N1    N1    N1    N1    N1
-                N1    N1    N1    N1    N1    N1    N1    N1    N1    N1    N1    N1    N1    N1    N1    N1
-                N1    N1    N1    N1    N1    N1    N1    N1    N1    N1    N1    N1
+    &kp N1 &kp N1 &kp N  &kp N1 &kp N1 &kp N1 &kp N1 &kp N1 &kp N1 &kp N1 &kp N1 &kp N1 &kp N1 &kp N1 &kp N1 &kp N1
+    &kp N1 &kp N1 &kp N1 &kp N1 &kp N1 &kp N1 &kp N1 &kp N1 &kp N1 &kp N1 &kp N1 &kp N1 &kp N1 &kp N1 &kp N1 &kp N1
+    &kp N1 &kp N1 &kp N1 &kp N1 &kp N1 &kp N1 &kp N1 &kp N1 &kp N1 &kp N1 &kp N1 &kp N1 &kp N1 &kp N1 &kp N1
+    &kp N1 &kp N1 &kp N1 &kp N1 &kp N1 &kp N1 &kp N1 &kp N1 &kp N1 &kp N1 &kp N1 &kp N1 &kp N1 &kp N1 &kp N1 &kp N1
+    &kp N1 &kp N1 &kp N1 &kp N1 &kp N1 &kp N1 &kp N1 &kp N1 &kp N1 &kp N1 &kp N1 &kp N1
             >;
+        };
     };
 };
