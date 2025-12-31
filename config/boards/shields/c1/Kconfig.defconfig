@@ -1,5 +1,5 @@
 if SHIELD_C1
-        
+
 config ZMK_KEYOBARD_NAME
     default "c1"
 
